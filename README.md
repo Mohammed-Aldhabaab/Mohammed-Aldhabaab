@@ -21,7 +21,7 @@ I'm a software engineer majoring in IT who loves building stunning front-end web
 </p>
 
 
-## 📊 GitHub Stats:
+## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mohammed-dhabaab&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-dhabaab&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-dhabaab&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
