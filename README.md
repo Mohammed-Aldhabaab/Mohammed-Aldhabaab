@@ -2,7 +2,10 @@
 
 
 ## 😊 About Me:
-I'm a software engineer majoring in IT who loves building stunning front-end web development. Right now, I'm building projects and sharpening my skills more as usual. Therefore, to achieve my goals such as working as a software engineer, engaging to help others, providing valuable things as well as making our world better than yesterday!
+Senior information technology student who loves building stunning projects as the sun around the stars! and is interested in the artificial intelligence field!
+
+Right now, I'm building projects and sharpening my skills more as usual! Therefore, to achieve my goals such as working as a software engineer, engaging to help others, providing valuable things as well as making our tech field better than yesterday!
+
 
 
 ## 💻 Tech Stack:
