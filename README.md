@@ -1,4 +1,9 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Mohammed Dhabaab!
+<p align="center">
+<h1 align="center" style="border-bottom: none;">
+  <picture><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving"></picture><picture ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="50"></picture> Hi, My name is Mohammed Dhabaab!
+</h1>
+</p>
+
 
 
 ## 😊 About Me:
@@ -9,7 +14,7 @@ Right now, I'm building projects and sharpening my skills more as usual! Therefo
 
 
 ## 💻 Tech Stack:
-<p align="left">
+<p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -23,14 +28,28 @@ Right now, I'm building projects and sharpening my skills more as usual! Therefo
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-## 📊 Stats
+## 📊 Stats:
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mohammed-dhabaab&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-dhabaab&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-dhabaab&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-<br>
+<p align="center">
+<a href="https://github.com/mohammed-dhabaab">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-dhabaab&theme=algolia&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-dhabaab&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+</a>
+</p>
+
 ### Leetcode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Mohammed_Dhabaab)](https://leetcode.com/Mohammed_Dhabaab)
+<p align="center">
+<a href="">
+    <img height="180em" src="https://leetcard.jacoblin.cool/Mohammed_Dhabaab" alt="https://leetcode.com/Mohammed_Dhabaab">
+  </a>
+</p>
+
+<!-- 
+![](https://github-readme-stats.vercel.app/api?username=Mohammed-dhabaab&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
+-->
+
+
+
 
 
 
