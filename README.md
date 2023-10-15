@@ -39,8 +39,8 @@ Right now, I'm building projects and sharpening my skills more as usual! Therefo
 
 ### Leetcode Stats:
 <p align="center">
-<a href="">
-    <img height="180em" src="https://leetcard.jacoblin.cool/Mohammed_Dhabaab" alt="https://leetcode.com/Mohammed_Dhabaab">
+<a href="https://leetcode.com/Mohammed_Dhabaab">
+    <img height="180em" src="https://leetcard.jacoblin.cool/Mohammed_Dhabaab" alt="Leetcode Stats">
   </a>
 </p>
 
