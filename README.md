@@ -55,7 +55,7 @@ Right now, I'm building projects and sharpening my skills more as usual! Therefo
 ### GitHub Stats:
 <p align="center">
 <a href="https://github.com/mohammed-dhabaab" target="_blank">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-dhabaab&theme=algolia&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-dhabaab&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-dhabaab&theme=algolia&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-dhabaab&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </a>
 </p>
 
