@@ -7,7 +7,7 @@
 
 
 ## 😊 About Me:
-Senior information technology student who loves building stunning projects as the sun around the stars! Interested and passionate about artificial intelligence, software engineering, and entrepreneurship!
+Senior information technology student who loves building stunning projects as the sun around the stars! Interested and passionate about software engineering and entrepreneurship!
 
 Right now, I'm building projects and sharpening my skills more as usual! Therefore, to achieve my goals such as working as a software engineer, engaging to help others, providing valuable values as well, and making our tech field better than yesterday!
 
