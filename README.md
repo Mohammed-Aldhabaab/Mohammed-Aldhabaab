@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./assets//Banner.png" alt="Banner" />
 
-## <picture><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving" width ="22"></picture><picture ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="22"></picture>😊 About Me:
+## <picture ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="22"></picture>😊 About Me:
 
 Graduated software engineer from King Abdulaziz University who loves building stunning projects as the sun around the stars! Interested and passionate about software engineering, artificial intelligence, and entrepreneurship!
 
