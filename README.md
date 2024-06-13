@@ -6,7 +6,7 @@ Graduated software engineer from King Abdulaziz University who loves building st
 
 Right now, I'm building projects and sharpening my skills more as usual! Therefore, achieving my goals, such as providing one of the highest values, becoming a real senior software engineer, helping others, and making our tech field better than yesterday!
 
-<div style="display: flex; align-items:center; gap: 6px;"><img src="./assets/icons/teamwork.svg" width="20" />Looking for collaboration on projects!</div>
+<div style="display: flex; align-items:center; gap: 6px;"><img src="./assets/icons/teamwork.svg" width="13" /> Looking for collaboration on projects!</div>
 
 ## ✨ Skills
 
