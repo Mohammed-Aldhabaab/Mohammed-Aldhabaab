@@ -13,9 +13,9 @@ Right now, I'm building projects and sharpening my skills more as usual! Therefo
 ### Frontend Skills
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/skills/frontend/react.svg" alt="react" width="40" height="40" alt="React.js" title="React.js" /></a>
-<a href="./assets/skills/frontend/javascript.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/javascript.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/vite.svg" width="36" height="36" alt="Vite.js" title="Vite.js" /></a>
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/jest.svg" width="36" height="36" alt="Jest.js" title="Jest.js" /></a>
+<a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/vitest.svg" width="36" height="36" alt="Vitest.js" title="Vitest.js" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/webpack.svg" width="36" height="36" alt="Webpack" title="Webpack" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/babel.svg" width="36" height="36" alt="Babel" title="Babel" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/frontend/tailwindcss.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS" /></a>
