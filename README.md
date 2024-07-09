@@ -2,9 +2,9 @@
 
 ## <div style="display: flex; align-items:center; gap: 6px;"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="23" height="23">😊 About Me</div>
 
-Graduated software engineer from King Abdulaziz University who loves building stunning projects as the sun around the stars! Interested and passionate about software engineering, artificial intelligence, and entrepreneurship!
+I am an enthusiastic and dedicated software engineer with a driven passion for developing high-quality and user-centered solutions. I am committed 100% to continuously enhancing my expertise, knowledge, and skills within software engineering and entrepreneurship to deliver impactful results!
 
-Right now, I'm building projects and sharpening my skills more as usual! Therefore, achieving my goals, such as providing one of the highest values, becoming a real senior software engineer, helping others, and making our tech field better than yesterday!
+Currently, I am developing solutions and honing my skills more as usual! I aim to consistently deliver high value through top-quality, user-centered solutions and make a positive impact each day!
 
 <div style="display: flex; align-items:center; gap: 6px;"><img src="./assets/icons/teamwork.svg" width="13" /> Looking for collaboration on projects!</div>
 
